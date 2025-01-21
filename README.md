@@ -1,16 +1,18 @@
-# minimal_linkdin_ui
+# Minimal LinkedIn UI
 
-A new Flutter project.
+This project is a minimalistic LinkedIn-like application built using Flutter. It features a very appealing UI and includes various screens such as Home, Login, and Sign Up. The primary focus of this project is to showcase a beautiful and responsive user interface.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Here are some screenshots of the application:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="assets/linkdinsc/01.jpg" alt="Screen 1" width="250" height="500">
+  <img src="assets/linkdinsc/02.jpg" alt="Screen 2" width="250" height="500">
+  <img src="assets/linkdinsc/03.jpg" alt="Screen 3" width="250" height="500">
+  <img src="assets/linkdinsc/04.jpg" alt="Screen 4" width="250" height="500">
+  <img src="assets/linkdinsc/05.jpg" alt="Screen 5" width="250" height="500">
+  <img src="assets/linkdinsc/06.jpg" alt="Screen 6" width="250" height="500">
+  <img src="assets/linkdinsc/07.jpg" alt="Screen 7" width="250" height="500">
+  <img src="assets/linkdinsc/08.jpg" alt="Screen 8" width="250" height="500">
+</div>
